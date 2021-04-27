@@ -1,0 +1,4 @@
+{
+	"mongoURL": "mongodb+srv://user123:user123@cluster0-etubb.mongodb.net/test?retryWrites=true&w=majority",
+	"jwtSecret": "secret"
+}
